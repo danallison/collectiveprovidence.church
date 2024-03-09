@@ -4,11 +4,15 @@ The Church of Collective Providence is a pragmatic spiritual community founded o
 
 ## What is collective providence?
 
+<img src="ant-bridge.jpg" width="400px">
+
 Collective providence is that which makes a collective greater than the sum of its parts. It is how a collective provides for its members more than the members could provide for themselves individually.
 
 Unlike divine providence, which is by definition beyond human comprehension, collective providence is tangible and even measurable. Collective providence is something we can systematically study and cultivate.
 
 ## Stone Soup
+
+<img src="stone-soup.jpg" width="400px">
 
 In the story of [Stone Soup](https://en.wikipedia.org/wiki/Stone_Soup), a group of hungry travelers arrive at a village and ask the villagers for food, but the villagers refuse. So the travelers set up a pot of boiling water with some stones in it and tell the villagers that they are making stone soup, which they will gladly share with the villagers, but they need some additional ingredients to make the soup taste better. The villagers agree to share their ingredients and everyone enjoys the soup. 
 
