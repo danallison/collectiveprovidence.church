@@ -1,7 +1,19 @@
 # The Church of Collective Providence
 
-The Church of Collective Providence is a pragmatic spiritual community founded on 3 core beliefs.
+The Church of Collective Providence is a pragmatic spiritual community founded on a simple commitment to reciprocity, otherwise known as [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule).
 
-1. With **dedicated practice**, it is possible for ordinary people to become as enlightened as the Buddha and as loving as Jesus Christ. The upper limits of spiritual growth for ordinary people are much higher than typically assumed. The key is practice.
-2. With the right **organizing principles**, it is possible for a collective of ordinary people to give rise to a unified group mind and coordinated group body.
-3. With a commitment to **reciprocity**, it is possible for such a group body-mind to become more than the sum of its parts, more capable of providing for the needs of the group members than the members would be as separate individuals. This is collective providence, and this is the central focus of our community.
+## What is collective providence?
+
+Collective providence is that which makes a collective greater than the sum of its parts. It is how a collective provides for its members more than the members could provide for themselves individually.
+
+Unlike divine providence, which is by definition beyond human comprehension, collective providence is tangible and even measurable. Collective providence is something we can systematically study and cultivate.
+
+## Stone Soup
+
+In the story of [Stone Soup](https://en.wikipedia.org/wiki/Stone_Soup), a group of hungry travelers arrive at a village and ask the villagers for food, but the villagers refuse. So the travelers set up a pot of boiling water with some stones in it and tell the villagers that they are making stone soup, which they will gladly share with the villagers, but they need some additional ingredients to make the soup taste better. The villagers agree to share their ingredients and everyone enjoys the soup. 
+
+One of the key ingredients in collective providence is commitment. Getting individuals to commit to supporting the collective is often necessary for the collective to be able to support its members. But often individuals are hesitant to commit before they see evidence that the collective will reciprocate. The story of Stone Soup illustrates one way to solve this chicken-and-egg problem.
+
+The stones serve as an attentional anchor. The stones allow the travelers to call it “soup” rather than just “hot water”. And once the villagers perceive that there is soup, that perception is enough to free the villagers of their hesitance, allowing them to commit to sharing ingredients.
+
+The Church of Collective Providence serves a similar purpose as the stones in Stone Soup. This church is just an idea. But people can’t join an idea. By calling it a church it becomes joinable. Once people join, it becomes a true church just as stone soup becomes a true soup.
