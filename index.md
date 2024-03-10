@@ -1,6 +1,6 @@
 # The Church of Collective Providence
 
-The Church of Collective Providence is a pragmatic spiritual community founded on a simple commitment to reciprocity, otherwise known as [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule).
+The Church of Collective Providence is a global collective of individuals united by a shared commitment to reciprocity, otherwise known as [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule). Our mission is to cultivate collective providence for the benefit of all. Reciprocity is how we realize that mission.
 
 ## What is collective providence?
 
@@ -9,8 +9,6 @@ The Church of Collective Providence is a pragmatic spiritual community founded o
 Collective providence is that which makes a collective greater than the sum of its parts. It is how a collective provides for its members more than the members could provide for themselves individually.
 
 Unlike divine providence, which is by definition beyond human comprehension, collective providence is tangible and even measurable. Collective providence is something we can systematically study and cultivate.
-
-The mission of our church is to cultivate collective providence for the benefit of all.
 
 ## What is reciprocity?
 
