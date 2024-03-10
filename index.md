@@ -10,6 +10,14 @@ Collective providence is that which makes a collective greater than the sum of i
 
 Unlike divine providence, which is by definition beyond human comprehension, collective providence is tangible and even measurable. Collective providence is something we can systematically study and cultivate.
 
+The mission of our church is to cultivate collective providence for the benefit of all.
+
+## What is reciprocity?
+
+Reciprocity means doing unto others as you would have them do unto you, and it is a common value found across many cultures and religious traditions. It is also a key enabling factor in the cultivation of collective providence. 
+
+When members of a collective practice reciprocity, helping anyone helps everyone.
+
 ## Stone Soup
 
 <img src="stone-soup.jpg" width="400px">
