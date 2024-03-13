@@ -36,4 +36,4 @@ Not really. Collective providence is a practical concept. However, our commitmen
 
 Members of the Church of Collective Providence are united by one thing: our commitment to reciprocity. 
 
-All that is required to become a member is to **write down on a piece of paper your heartfelt commitment to practicing reciprocity in your life to the best of your ability**. That's it. Once you have written down your commitment, you are now a member of the church.
+All that is required to become a member is to **write down on a piece of paper your heartfelt commitment to practicing reciprocity in your life to the best of your ability for the benefit of all**. That's it. Once you have written down your commitment, you are now a member of the church.
