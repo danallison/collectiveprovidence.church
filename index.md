@@ -27,3 +27,13 @@ One of the key ingredients in collective providence is commitment. Getting indiv
 The stones allow the travelers to call it “soup” rather than just “hot water”. And once the villagers perceive that there is soup, that perception is enough to free the villagers of their hesitance, allowing them to commit to sharing ingredients.
 
 The Church of Collective Providence is similar to Stone Soup. This church is just an idea. But by calling it a church it becomes joinable. Once people join, it becomes a true church just as stone soup becomes a true soup.
+
+## Is this a religious group?
+
+Not really. Collective providence is a practical concept. However, our commitment to cultivating collective providence through reciprocity is indeed a spiritual value that we hold as inherently good. So there is an aspect of faith in that inherent goodness, but beyond that we do not require adherence to any particular belief system or way of life.
+
+## How to join
+
+Members of the Church of Collective Providence are united by one thing: our commitment to reciprocity. 
+
+All that is required to become a member is to **write down on a piece of paper your heartfelt commitment to practicing reciprocity in your life to the best of your ability**. That's it. Once you have written down your commitment, you are now a member of the church.
