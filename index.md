@@ -24,6 +24,6 @@ In the story of [Stone Soup](https://en.wikipedia.org/wiki/Stone_Soup), a group 
 
 One of the key ingredients in collective providence is commitment. Getting individuals to commit to supporting the collective is often necessary for the collective to be able to support its members. But often individuals are hesitant to commit before they see evidence that the collective will reciprocate. The story of Stone Soup illustrates one way to solve this chicken-and-egg problem.
 
-The stones serve as an attentional anchor. The stones allow the travelers to call it “soup” rather than just “hot water”. And once the villagers perceive that there is soup, that perception is enough to free the villagers of their hesitance, allowing them to commit to sharing ingredients.
+The stones allow the travelers to call it “soup” rather than just “hot water”. And once the villagers perceive that there is soup, that perception is enough to free the villagers of their hesitance, allowing them to commit to sharing ingredients.
 
-The Church of Collective Providence serves a similar purpose as the stones in Stone Soup. This church is just an idea. But people can’t join an idea. By calling it a church it becomes joinable. Once people join, it becomes a true church just as stone soup becomes a true soup.
+The Church of Collective Providence is similar to Stone Soup. This church is just an idea. But by calling it a church it becomes joinable. Once people join, it becomes a true church just as stone soup becomes a true soup.
