@@ -30,7 +30,7 @@ The Church of Collective Providence is similar to Stone Soup. This church is jus
 
 ## Is this a religious group?
 
-Not really. Collective providence is a practical concept. However, our commitment to cultivating collective providence through reciprocity is indeed a spiritual value that we hold as inherently good. So there is an aspect of faith in that inherent goodness, but beyond that we do not require adherence to any particular belief system or way of life.
+Not really. Collective providence is a practical concept. However, our commitment to cultivating collective providence through reciprocity could be considered a spiritual value that we hold as inherently good. So there is that one aspect of faith and devotion, but beyond that we do not require adherence to any particular belief system or way of life.
 
 ## How to join
 
