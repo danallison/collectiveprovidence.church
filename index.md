@@ -44,4 +44,4 @@ Unlike a typical church, the Church of Collective Providence is a leaderless org
 
 There are no official communication channels or information sources other than this website and the social media hashtag `#collectiveprovidence`. Participation in the church is basically one big improv game.
 
-Ultimately, how you participate is something you must decide for yourself. It’s up to you how publicly or privately you wish to honor your commitment.
+Ultimately, how you participate is something you must decide for yourself. It’s up to you how you wish to honor your commitment.
