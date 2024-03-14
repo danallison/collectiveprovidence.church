@@ -42,6 +42,6 @@ All that is required to become a member is to **write down on a piece of paper y
 
 Unlike a typical church, the Church of Collective Providence is a leaderless organization governed by [democracy improv](https://democracyimprov.org). This governance structure allows members to coordinate quickly to find creative ways of supporting each other without requiring permission from any leadership hierarchy. Every member has the authority to initiate collective action in service of our mission. 
 
-There are no official communication channels or information sources other than this website and the social media hashtag #collectiveprovidence. Participation in the church is basically one big improv game.
+There are no official communication channels or information sources other than this website and the social media hashtag `#collectiveprovidence`. Participation in the church is basically one big improv game.
 
 Ultimately, how you participate is something you must decide for yourself. It’s up to you how publicly or privately you wish to honor your commitment.
