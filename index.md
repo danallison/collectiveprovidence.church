@@ -36,7 +36,16 @@ Not really. Collective providence is a practical concept. However, our commitmen
 
 Members of the Church of Collective Providence are united by one thing: our commitment to reciprocity. 
 
-All that is required to become a member is to **write down on a piece of paper your heartfelt commitment to practicing reciprocity in your life to the best of your ability for the benefit of all**. That's it. Once you have written down your commitment, you are now a member of the church.
+All that is required to become a member is to create a commitment document as described below.
+1. At the top of a physical piece of paper, draw the symbol of the Eyes of Providence. This symbol represents the larger collective that everyone is a part of.
+2. Beneath the symbol, write down your heartfelt commitment to practicing reciprocity in your life to the best of your ability for the benefit of all.
+3. Sign the document and get two other people (they don’t necessarily need to be members of the church themselves) to co-sign the document as witnesses of your commitment.
+
+Once you have written down your commitment under the Eyes of Providence, along with your signature and the signatures of two co-signers, you are now a member of the church.
+
+Keep your commitment document in a place that is meaningful to you. 
+
+You are encouraged (but certainly not required) to share a photo of your commitment document on social media with the hashtag `#collectiveprovidence`. This helps you and fellow members find each other, and it helps non-members discover the church.
 
 ## How to participate
 
