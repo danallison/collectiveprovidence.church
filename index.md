@@ -40,7 +40,7 @@ All that is required to become a member is to create a commitment document as de
 
 <img src="eyes-of-providence.png" width="200px">
 
-1. At the top of a physical piece of paper, draw the symbol of the Eyes of Providence as shown above (1 large triangle made of 3 smaller triangles, each containing a circle/eye). This symbol represents the larger collective that everyone is a part of.
+1. At the top of a physical piece of paper, draw the symbol of the Eyes of Providence as shown above (one large triangle made of three smaller triangles, each containing a circle/eye). This symbol represents the larger collective that everyone is a part of.
 2. Beneath the symbol, write down your heartfelt commitment to practicing reciprocity in your life to the best of your ability for the benefit of all.
 3. Sign the document yourself and get two existing church members to co-sign the document as witnesses of your commitment. If there are no existing church members available to co-sign, you and two other people can all join the church simultaneously and co-sign each other’s commitment documents in bootstrap fashion.
 
