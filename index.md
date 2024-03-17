@@ -42,7 +42,7 @@ All that is required to become a member is to create a commitment document as de
 
 <img src="eyes-of-providence.png" width="200px">
 
-1. At the top of a physical piece of paper, draw the symbol of the Eyes of Providence as shown above (one large triangle made of three smaller triangles, each containing a circle/eye). This symbol represents the larger collective that everyone is a part of.
+1. At the top of a physical piece of paper, draw the symbol of the Eyes of Providence as shown above (one large triangle made of three smaller triangles, each containing a circle/eye). This symbol represents collective providence.
 2. Beneath the symbol, write down your heartfelt commitment to practicing reciprocity in your life to the best of your ability for the benefit of all.
 3. Sign the document yourself and get two existing church members to co-sign the document as witnesses of your commitment. If there are no existing church members available to co-sign, you and two other people can all join the church simultaneously and co-sign each other’s commitment documents in bootstrap fashion.
 
@@ -54,6 +54,6 @@ Keep your commitment document in a place that is meaningful to you.
 
 Unlike a typical church, the Church of Collective Providence is a leaderless organization governed by [democracy improv](https://democracyimprov.org). This governance structure allows members to coordinate quickly to find creative ways of supporting each other without requiring permission from any leadership hierarchy. Every member has the authority to initiate collective action in service of our mission. 
 
-There are no official communication channels or information sources other than this website and the social media hashtag `#collectiveprovidence`.
+There are no official communication channels or information sources other than this website and the social media hashtag `#CollectiveProvidence`.
 
 Ultimately, how you participate is something you must decide for yourself. It’s up to you how you wish to honor your commitment. Participation in the church is basically one big improv game. So have fun with it!
