@@ -38,22 +38,23 @@ Additionally, you may already have a religious faith or spiritual path. The prac
 
 Members of the Church of Collective Providence are united by one thing: our commitment to reciprocity. 
 
-All that is required to become a member is to create a commitment document as described below.
+All that is required to become a member is to join a lineage (or start your own) by creating a commitment document as described below.
 
 <img src="eyes-of-providence.png" width="200px">
 
 1. At the top of a physical piece of paper, draw the symbol of the Eyes of Providence as shown above (one large triangle made of three smaller triangles, each containing a circle/eye). This symbol represents collective providence.
 2. Beneath the symbol, write down your heartfelt commitment to practicing reciprocity in your life to the best of your ability for the benefit of all.
-3. Sign the document yourself and get two existing church members to co-sign the document as witnesses of your commitment. If there are no existing church members available to co-sign, you and two other people can all join the church simultaneously and co-sign each other’s commitment documents in bootstrap fashion.
+3. Sign the document yourself and get two existing church members of your chosen lineage to co-sign the document as witnesses of your commitment. If there are no existing church members available to co-sign, you and two other people can start a new lineage and all join the church simultaneously by co-signing each other’s commitment documents in bootstrap fashion.
 
 Once you have written down your commitment under the Eyes of Providence, along with your signature and the signatures of your two co-signers, you are now a member of the church.
 
-Keep your commitment document in a place that is meaningful to you. 
+## Lineages
 
-## How to participate
+One risk that comes with commitment to reciprocity is the risk of exploitation. If someone knows that you’ve made a commitment to treating others kindly, they might take advantage of your kindness without reciprocating.
 
-Unlike a typical church, the Church of Collective Providence is a leaderless organization governed by [democracy improv](https://democracyimprov.org). This governance structure allows members to coordinate quickly to find creative ways of supporting each other without requiring permission from any leadership hierarchy. Every member has the authority to initiate collective action in service of our mission. 
+Another risk is that of misaligned expectations about what reciprocity actually looks like in practice. When people agree to support each other, the implementation details matter. Good intentions don’t automatically translate to good outcomes.
 
-Ultimately, how you participate is something you must decide for yourself. It’s up to you how you wish to honor your commitment. Participation in the church is basically one big improv game. So have fun with it!
+Lineages are a way to build trust and clarify expectations. By requiring existing members of a lineage to sign the commitment documents of new members, a chain of trust and understanding is built over time through those relationships.
 
-A good way to get started is by finding fellow members online using the social media hashtag `#CollectiveProvidence`.
+Different lineages can have different norms and customs, including requirements for joining that are additional to the basic requirement of commitment to reciprocity. Make sure you understand the expectations of your chosen lineage before joining.
+
