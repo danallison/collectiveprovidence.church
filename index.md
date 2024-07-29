@@ -6,9 +6,11 @@ The Church of Collective Providence is a global collective of individuals united
 
 <img src="ant-bridge.jpg" width="400px">
 
-Collective providence is that which makes a collective greater than the sum of its parts. It is how a collective provides for its members more than the members could provide for themselves individually.
+Collective providence is that which allows a collective to provide for its members more than the members could provide for themselves as individuals.
 
 Unlike divine providence, which is by definition beyond human comprehension, collective providence is tangible and even measurable. Collective providence is something we can systematically study and cultivate.
+
+You can read more about the concept of collective providence at [collectiveprovidence.org](https://collectiveprovidence.org).
 
 ## What is reciprocity?
 
