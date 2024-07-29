@@ -30,9 +30,7 @@ The Church of Collective Providence is similar to Stone Soup. This church is jus
 
 ## Is this a religious group?
 
-In one sense, yes. But it’s really more like a game. The goal of the game is to cultivate more and more collective providence through the practice of reciprocity. It’s up to you how much you want to frame the practice of reciprocity as a spiritual practice. Faith and devotion can provide you with a sense of purpose and meaning in life that is otherwise difficult to achieve. But there’s no requirement that you treat it as a spiritual thing if that’s not how you want to approach it.
-
-Additionally, you may already have a religious faith or spiritual path. The practice of reciprocity is perfectly compatible with most religious faiths and spiritual practices. So you do not have to dedicate yourself exclusively to our church. You can be a member of other religious communities as well.
+The Church of Collective Providence is first and foremost an idea. It belongs to everyone and no one. Anyone can start a lineage for any reason. Different lineages may have different perspectives and goals which may or may not involve religion or spirituality. It’s up to each lineage to decide how to relate to this idea of collective providence. For some, it might be entirely practical, similar to a neighborhood co-op or business partnership. For others, it might be a fully devotional spiritual community, or a variation on a traditional religious community. The use of the word “church” is intended to convey the role that this idea plays in people’s lives, but it is not necessarily religious in nature, though it can be.
 
 ## How to join
 
