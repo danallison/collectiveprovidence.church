@@ -1,22 +1,8 @@
 # The Church of Collective Providence
 
-The Church of Collective Providence is a global collective of individuals united by a shared commitment to reciprocity, otherwise known as [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule). Our mission is to cultivate collective providence for the benefit of all. Reciprocity is how we realize that mission.
+The Church of Collective Providence is a made up institution for anyone who wants an excuse to form a church-like community without requiring adherence to any particular religious beliefs. It's an idea that gives people a reason to gather and support each other.
 
-## What is collective providence?
-
-<img src="ant-bridge.jpg" width="400px">
-
-Collective providence is that which allows a collective to provide for its members more than the members could provide for themselves as individuals.
-
-Unlike divine providence, which is by definition beyond human comprehension, collective providence is tangible and even measurable. Collective providence is something we can systematically study and cultivate.
-
-You can read more about the concept of collective providence at [collectiveprovidence.org](https://collectiveprovidence.org).
-
-## What is reciprocity?
-
-Reciprocity means doing unto others as you would have them do unto you, and it is a common value found across many cultures and religious traditions. It is also a key enabling factor in the cultivation of collective providence. 
-
-When members of a collective practice reciprocity, helping anyone helps everyone.
+The only requirement to join is a commitment to practicing reciprocity, otherwise known as [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule). Reciprocity is what makes collective providence possible.
 
 ## Stone Soup
 
@@ -30,31 +16,42 @@ The stones allow the travelers to call it “soup” rather than just “hot wat
 
 The Church of Collective Providence is similar to Stone Soup. This church is just an idea. But by calling it a church it becomes joinable. Once people join, it becomes a true church just as stone soup becomes a true soup.
 
-## Is this a religious group?
+## What is collective providence?
 
-The Church of Collective Providence is first and foremost an idea. It belongs to everyone and no one. Anyone can start a lineage for any reason. Different lineages may have different perspectives and goals which may or may not involve religion or spirituality. It’s up to each lineage to decide how to relate to this idea of collective providence. For some, it might be entirely practical, similar to a neighborhood co-op or business partnership. For others, it might be a fully devotional spiritual community, or a variation on a traditional religious community. The use of the word “church” is intended to convey the role that this idea plays in people’s lives, but it is not necessarily religious in nature, though it can be.
+<img src="ant-bridge.jpg" width="400px">
+
+Collective providence is that which allows a collective to provide for its members more than the members could provide for themselves as individuals.
+
+Unlike divine providence, which is by definition beyond human comprehension, collective providence is tangible and even measurable. Collective providence is something we can cultivate intentionally.
+
+You can read more about the concept of collective providence at [collectiveprovidence.org](https://collectiveprovidence.org).
+
+## What is reciprocity?
+
+Reciprocity means doing unto others as you would have them do unto you, and it is a common value found across many cultures and religious traditions. It is also a key enabling factor in the cultivation of collective providence. 
+
+When everyone practices reciprocity, helping anyone helps everyone.
 
 ## How to join
 
 Members of the Church of Collective Providence are united by one thing: our commitment to reciprocity. 
 
-All that is required to become a member is to join a lineage (or start your own) by creating a commitment document as described below.
+All that is required to become a member is to join a congregation (or start your own) by creating a commitment document as described below.
 
 <img src="eyes-of-providence.png" width="200px">
 
 1. At the top of a physical piece of paper, draw the symbol of the Eyes of Providence as shown above (one large triangle made of three smaller triangles, each containing a circle/eye). This symbol represents collective providence.
-2. Beneath the symbol, write down your heartfelt commitment to practicing reciprocity in your life to the best of your ability for the benefit of all.
-3. Sign the document yourself and get two existing church members of your chosen lineage to co-sign the document as witnesses of your commitment. If there are no existing church members available to co-sign, you and two other people can start a new lineage and all join the church simultaneously by co-signing each other’s commitment documents in bootstrap fashion.
+2. Beneath the symbol, write down your heartfelt commitment to practicing reciprocity in support of the congregation you are joining.
+3. Sign the document yourself and get two existing congregation members to co-sign the document as witnesses of your commitment. If there are no existing members available to co-sign, you and two other people can start a new congregation and all join the church simultaneously by co-signing each other’s commitment documents in bootstrap fashion.
 
 Once you have written down your commitment under the Eyes of Providence, along with your signature and the signatures of your two co-signers, you are now a member of the church.
 
-## Lineages
+## Practice discernment and clarify expectations
 
-One risk that comes with commitment to reciprocity is the risk of exploitation. If someone knows that you’ve made a commitment to treating others kindly, they might take advantage of your kindness without reciprocating.
+One risk that comes with commitment to reciprocity is the risk of exploitation. If someone knows that you’ve made a commitment to treating others kindly, they might take advantage of your kindness without reciprocating. Remember to practice discernment when choosing to join a congregation or co-sign a new member's commitment document. Trust your gut.
 
-Another risk is that of misaligned expectations about what reciprocity actually looks like in practice. When people agree to support each other, the implementation details matter. Good intentions don’t automatically translate to good outcomes.
+Another risk is that of misaligned expectations about what reciprocity actually looks like in practice. When people agree to support each other, the implementation details matter. Good intentions don’t automatically translate to good outcomes. Make sure to clarify expectations early and often, set clear boundaries, and be prepared to engage in conflict resolution when disagreements do arise.
 
-Lineages are a way to build trust and clarify expectations. By requiring existing members of a lineage to sign the commitment documents of new members, a chain of trust and understanding is built over time through those relationships.
+## About this website
 
-Different lineages can have different norms and customs, including requirements for joining that are additional to the basic requirement of commitment to reciprocity. Make sure you understand the expectations of your chosen lineage before joining.
-
+This website is created and maintained by [Dan Allison](https://danallison.info), but Dan claims no ownership over these ideas, nor does he claim any position of authority within the church. The Church of Collective Providence is an idea that belongs to everyone and no one, and there is no centralized leadership body.
