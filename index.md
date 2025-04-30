@@ -1,8 +1,8 @@
 # The Church of Collective Providence
 
-The Church of Collective Providence is a made up institution for anyone who wants an excuse to form a church-like community without requiring adherence to any particular religious beliefs. It's an idea that gives people a reason to gather and support each other.
+The Church of Collective Providence is an ambiguously "fictional" institution that serves as an excuse for people to form church-like communities without getting too hung up on religious beliefs. It's like a role-playing game that gives people a reason to gather and support each other in real life by pretending that it's just a bit (because it is, kinda).
 
-The only requirement to join is a commitment to practicing reciprocity, otherwise known as [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule). Reciprocity is what makes collective providence possible.
+The only requirement to join the church/game is a commitment to practicing reciprocity, otherwise known as [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule). Reciprocity is what makes collective providence possible. (Having a sense of humor is also helpful, but not a strict requirement).
 
 ## Stone Soup
 
@@ -14,7 +14,7 @@ One of the key ingredients in collective providence is commitment. Getting indiv
 
 The stones allow the travelers to call it “soup” rather than just “hot water”. And once the villagers perceive that there is soup, that perception is enough to free the villagers of their hesitance, allowing them to commit to sharing ingredients.
 
-The Church of Collective Providence is similar to Stone Soup. This church is just an idea. But by calling it a church it becomes joinable. Once people join, it becomes a true church just as stone soup becomes a true soup.
+The Church of Collective Providence is similar to Stone Soup. This church is just a made up idea. But by calling it a church it becomes joinable. Once people join, it becomes a true church just as stone soup becomes a true soup.
 
 ## What is collective providence?
 
@@ -22,7 +22,7 @@ The Church of Collective Providence is similar to Stone Soup. This church is jus
 
 Collective providence is that which allows a collective to provide for its members more than the members could provide for themselves as individuals.
 
-Unlike divine providence, which is by definition beyond human comprehension, collective providence is tangible and even measurable. Collective providence is something we can cultivate intentionally.
+Unlike divine providence, which is by definition beyond human comprehension, collective providence is tangible and even measurable. Collective providence is something we can cultivate intentionally. And yet, it is also magical. It is the creation of something from nothing.
 
 You can read more about the concept of collective providence at [collectiveprovidence.org](https://collectiveprovidence.org).
 
