@@ -1,8 +1,8 @@
 # The Church of Collective Providence
 
-The Church of Collective Providence is an ambiguously "fictional" institution that serves as an excuse for people to form church-like communities without getting too hung up on religious beliefs. It's like a role-playing game that gives people a reason to gather and support each other in real life by pretending that it's just a bit (because it is, kinda).
+The Church of Collective Providence is an ambiguously ~fictional institution established as a social convention for people who wish to join a religious community for the community rather than the religion. It's like a role-playing game that gives people a reason to gather and support each other in real life, and in so doing the community itself becomes the religion.
 
-The only requirement to join the church/game is a commitment to practicing reciprocity, otherwise known as [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule). Reciprocity is what makes collective providence possible. (Having a sense of humor is also helpful, but not a strict requirement).
+The only requirement to join the church/game is a commitment to practicing reciprocity, otherwise known as [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule). Reciprocity is what makes collective providence possible.
 
 ## Stone Soup
 
@@ -22,7 +22,7 @@ The Church of Collective Providence is similar to Stone Soup. This church is jus
 
 Collective providence is that which allows a collective to provide for its members more than the members could provide for themselves as individuals.
 
-Unlike divine providence, which is by definition beyond human comprehension, collective providence is tangible and even measurable. Collective providence is something we can cultivate intentionally. And yet, it is also magical. It is the creation of something from nothing.
+Unlike divine providence, which is by definition beyond human comprehension, collective providence is tangible and even measurable. Collective providence is something we can cultivate intentionally. And yet, it is also magical. It is the creation of something from nothing. It is the emergence of a higher power out of basic elements.
 
 You can read more about the concept of collective providence at [collectiveprovidence.org](https://collectiveprovidence.org).
 
