@@ -1,6 +1,6 @@
 # The Church of Collective Providence
 
-The Church of Collective Providence is an ambiguously ~fictional institution established as a social convention for people who wish to join a religious community for the community rather than the religion. It's like a role-playing game that gives people a reason to gather and support each other in real life, and in so doing the community itself becomes the religion.
+The Church of Collective Providence is an imaginary/real-enough institution established as a social convention for people who wish to join a collective that's just religious enough to catalyze mutually supportive relationships, but not so religious that it undermines individual self-sovereinty. It's like a role-playing game that gives people a reason to gather and support each other in real life.
 
 The only requirement to join the church/game is a commitment to practicing reciprocity, otherwise known as [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule). Reciprocity is what makes collective providence possible.
 
@@ -24,7 +24,7 @@ Collective providence is that which allows a collective to provide for its membe
 
 Unlike divine providence, which is by definition beyond human comprehension, collective providence is tangible and even measurable. Collective providence is something we can cultivate intentionally. And yet, it is also magical. It is the creation of something from nothing. It is the emergence of a higher power out of basic elements.
 
-You can read more about the concept of collective providence at [collectiveprovidence.org](https://collectiveprovidence.org).
+You can read more about the concept of collective providence [here](https://danallison.info/writings/collective-providence).
 
 ## What is reciprocity?
 
@@ -34,23 +34,9 @@ When everyone practices reciprocity, helping anyone helps everyone.
 
 ## How to join
 
-Members of the Church of Collective Providence are united by one thing: our commitment to reciprocity. 
+Since the church is just an idea, you join by deciding to join. And joining can mean whatever you intend for it to mean. You can organize your community under the banner of the church if you wish. You don't need to get anyone's permission or blessing. The Church of Collective Providence is an idea that belongs to everyone and no one, and there is no centralized leadership body.
 
-All that is required to become a member is to join a congregation (or start your own) by creating a commitment document as described below.
-
-<img src="eyes-of-providence.png" width="200px">
-
-1. At the top of a physical piece of paper, draw the symbol of the Eyes of Providence as shown above (one large triangle made of three smaller triangles, each containing a circle/eye). This symbol represents collective providence.
-2. Beneath the symbol, write down your heartfelt commitment to practicing reciprocity in support of the congregation you are joining.
-3. Sign the document yourself and get two existing congregation members to co-sign the document as witnesses of your commitment. If there are no existing members available to co-sign, you and two other people can start a new congregation and all join the church simultaneously by co-signing each other’s commitment documents in bootstrap fashion.
-
-Once you have written down your commitment under the Eyes of Providence, along with your signature and the signatures of your two co-signers, you are now a member of the church.
-
-## Practice discernment and clarify expectations
-
-One risk that comes with commitment to reciprocity is the risk of exploitation. If someone knows that you’ve made a commitment to treating others kindly, they might take advantage of your kindness without reciprocating. Remember to practice discernment when choosing to join a congregation or co-sign a new member's commitment document. Trust your gut.
-
-Another risk is that of misaligned expectations about what reciprocity actually looks like in practice. When people agree to support each other, the implementation details matter. Good intentions don’t automatically translate to good outcomes. Make sure to clarify expectations early and often, set clear boundaries, and be prepared to engage in conflict resolution when disagreements do arise.
+The only requirement is a commitment to reciprocity.
 
 ## About this website
 
