@@ -1,3 +1,5 @@
+<img src="five-triangles.jpeg" width="200px">
+
 # The Church of Collective Providence
 
 The Church of Collective Providence is an imaginary/real-enough institution established as a social convention for people who wish to join a collective that's just religious enough to catalyze mutually supportive relationships in service of something greater than oneself, but not so religious that it undermines epistemic humility or individual self-sovereignty.
@@ -31,6 +33,12 @@ You can read more about the concept of collective providence [here](https://dana
 Reciprocity means doing unto others as you would have them do unto you, and it is a common value found across many cultures and religious traditions. It is also a key enabling factor in the cultivation of collective providence. 
 
 When everyone practices reciprocity, helping anyone helps everyone.
+
+## The Five Triangles
+
+<img src="five-triangles.jpeg" width="200px">
+
+The Five Triangles is the symbol of the Church of Collective Providence. It both represents and demonstrates the concept of collective providence. When three small triangles are arranged to create one large triangle, a fourth small triangle is created in the middle out of empty space, making the larger triangle greater than the sum of its parts.
 
 ## How to join
 
