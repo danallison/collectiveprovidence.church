@@ -1,8 +1,8 @@
 # The Church of Collective Providence
 
-The Church of Collective Providence is an imaginary/real-enough institution established as a social convention for people who wish to join a collective that's just religious enough to catalyze mutually supportive relationships in service of something greater than oneself, but not so religious that it undermines individual self-sovereignty. It's like a role-playing game that gives people a reason to gather and support each other in real life.
+The Church of Collective Providence is an imaginary/real-enough institution established as a social convention for people who wish to join a collective that's just religious enough to catalyze mutually supportive relationships in service of something greater than oneself, but not so religious that it undermines epistemic humility or individual self-sovereignty.
 
-The only requirement to join the church/game is a commitment to practicing reciprocity, otherwise known as [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule). Reciprocity is what makes collective providence possible.
+The only requirement to join the church is a commitment to practicing reciprocity, otherwise known as [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule). Reciprocity is what makes collective providence possible.
 
 ## Stone Soup
 
