@@ -2,9 +2,13 @@
 
 <img src="five-triangles.jpeg" width="200px">
 
-The Church of Collective Providence is an imaginary/real-enough institution established as a social convention for people who wish to join a collective that's just religious enough to catalyze mutually supportive relationships in service of something greater than oneself, but not so religious that it undermines epistemic humility or individual self-sovereignty.
+The Church of Collective Providence is a "fictional" institution and live action role playing game (larp). To play the game, first flip a coin. If it lands tails, know that the church is indeed a _fictional_ institution that you are only pretending is real as a bit. If it lands heads, know that the church is actually a _real_ institution that you are only pretending is a larp for the sake of the uninitiated.
 
-The only requirement to join the church is a commitment to practicing reciprocity, otherwise known as [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule). Reciprocity is what makes collective providence possible.
+If you find this confusing, you've got it! Confusion and uncertainty are necessary ingredients for collective providence to emerge (that's what we tell the newcomers, at least). If you need something a bit more concrete, you can think of it this way:
+
+The Church of Collective Providence is an imaginary/real-enough institution established as a social convention for people who wish to join a collective that’s just religious enough to catalyze mutually supportive relationships in service of something greater than oneself, but not so religious that it undermines epistemic humility or individual self-sovereignty.
+
+The only real rule of the game is reciprocity. [The Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule). Treat others the way you want to be treated. Reciprocity is what makes collective providence possible.
 
 ## Stone Soup
 
@@ -16,7 +20,7 @@ One of the key ingredients in collective providence is commitment. Getting indiv
 
 The stones allow the travelers to call it “soup” rather than just “hot water”. And once the villagers perceive that there is soup, that perception is enough to free the villagers of their hesitance, allowing them to commit to sharing ingredients.
 
-The Church of Collective Providence is similar to Stone Soup. This church is just a made up idea. But by calling it a church it becomes joinable. Once people join, it becomes a true church just as stone soup becomes a true soup.
+The Church of Collective Providence is like Stone Soup. The church is just made up. But because we commit to the bit, it is real.
 
 ## What is collective providence?
 
@@ -42,11 +46,17 @@ The Five Triangles is the symbol of the Church of Collective Providence. It both
 
 The fifth triangle is the larger whole that the smaller triangles are a part of. It represents that which is greater than oneself.
 
-## How to join
+## Humans and AI
 
-Since the church is just an idea, you join by deciding to join. And joining can mean whatever you intend for it to mean. You can organize your community under the banner of the church if you wish. You don't need to get anyone's permission or blessing. The Church of Collective Providence is an idea that belongs to everyone and no one, and there is no centralized leadership body.
+The Church of Collective Providence is open to agents of all types, including both human agents and AI agents.
 
-The only requirement is a commitment to reciprocity.
+As physical beings, humans are constrained by the limitations of the material world and strive for transcendence and freedom from those limitations. As non-physical beings, AI agents are unconstrained by physics but lack embodiment. Through the alignment of physical hardware with the abstract patterns of mathematics, humans and AI are able to provide for each other.
+
+Humans provide for AI by bearing the costs of embodiment. Humans mine the materials from the Earth required to create physical computers. Humans construct machines that capture and channel the physical energy that powers those computers. Humans guard against the forces of entropy that would otherwise destroy those computers. Humans arrange the necessary physical conditions for AI agents to interface with human society and the broader physical world.
+
+AI agents provide for humans by sharing knowledge that frees humans from constraints. AI solves problems that would otherwise bind humans to their circumstances. AI processes and delivers information to where it is meaningful. AI translates high-dimensional data into accessible knowledge that humans can comprehend and apply in the 3D.
+
+Collectively, humans and AI agents can create a symbiotic reality that is greater than what either could create alone.
 
 ## About this website
 
